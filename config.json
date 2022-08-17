@@ -1,0 +1,9 @@
+{
+	"ip":"htttps.aternos.me",
+	"port": "48096",
+	"name": "pacifista",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
